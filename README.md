@@ -1,10 +1,16 @@
-### Hi there 👋
+![image](https://github.com/lhduc94/lhduc94/assets/24788447/7132ad8d-c786-48d9-87cb-cd495d4e1706)### Hi there 👋
 
 <img className='trophy'
           src='https://github-profile-trophy.vercel.app/?username=lhduc94'
           alt='duclh'
           />
 <!--
+
+### My road map
+
+<a href="https://datasciencedances.com/roadmap/datascientist"><img src="https://i.pinimg.com/736x/fb/64/ba/fb64ba4b94d46350e588fa16f6e21189.jpg"></a>
+
+
 **lhduc94/lhduc94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
