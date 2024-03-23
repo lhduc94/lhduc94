@@ -1,4 +1,4 @@
-![image](https://github.com/lhduc94/lhduc94/assets/24788447/7132ad8d-c786-48d9-87cb-cd495d4e1706)### Hi there 👋
+### Hi there 👋
 
 <img className='trophy'
           src='https://github-profile-trophy.vercel.app/?username=lhduc94'
