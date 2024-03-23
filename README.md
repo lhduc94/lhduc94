@@ -4,7 +4,6 @@
           src='https://github-profile-trophy.vercel.app/?username=lhduc94'
           alt='duclh'
           />
-<!--
 
 ### My road map
 
