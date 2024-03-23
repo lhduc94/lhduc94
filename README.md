@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img className='trophy'
+          src='https://github-profile-trophy.vercel.app/?username=lhduc94'
+          alt='duclh'
+          />
 <!--
 **lhduc94/lhduc94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
