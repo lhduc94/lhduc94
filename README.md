@@ -7,4 +7,4 @@
 
 ### My road map
 
-![https://datasciencedances.com/roadmap/datascientist](https://i.pinimg.com/736x/fb/64/ba/fb64ba4b94d46350e588fa16f6e21189.jpg)
+<a href="https://datasciencedances.com/roadmap/datascientist"><img src="https://i.pinimg.com/736x/fb/64/ba/fb64ba4b94d46350e588fa16f6e21189.jpg"></a>
